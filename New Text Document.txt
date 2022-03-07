@@ -1,0 +1,28 @@
+s dataset contains the price of houses located in Chennai. It can be used to predict the price of houses using Machine Learning.
+
+Price can be predicted using all the variables.
+The number of bathrooms has many null values so an assumption can be made to fill the values to get maximum accuracy.
+
+price
+Price in Lakhs (INR)
+
+area
+Area in sqft.
+
+status
+Under Construction/ Ready to move
+
+bhk
+Number of Bedrooms
+
+bathroom
+Number of Bathrooms
+
+age
+How old is the house
+
+location
+Location at which house is located.
+
+builder
+Builder who built the house.
